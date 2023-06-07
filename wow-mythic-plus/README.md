@@ -1,0 +1,1 @@
+I intended to look at WoW Mythic Plus run data but it turns out the API only allows for 10 pages :(
